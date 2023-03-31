@@ -1,3 +1,3 @@
 function redirectToYouTube() {
-	window.location.href = "https://youtu.be/F-Cm-bmdLEY";
+	window.location.href = "https://youtu.be/mCh6VpxLubc?t=37";
 }
